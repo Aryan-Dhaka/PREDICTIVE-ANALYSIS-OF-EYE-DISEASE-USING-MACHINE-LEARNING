@@ -98,7 +98,7 @@ These values are dataset- and split-specific and may vary by environment. Recall
 ## Author
 
 **Aryan**  
-B.Tech CSE (2nd Year) | Lovely Professional University  
+B.Tech CSE (3nd Year) | Lovely Professional University  
 Course: INT234 — Predictive Analysis
 
 ## Disclaimer
